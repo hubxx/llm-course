@@ -1,3 +1,4 @@
+翻译: https://www.aimaven.vip/article/5032
 <div align="center">
   <h1>🗣️ Large Language Model Course</h1>
   <p align="center">
